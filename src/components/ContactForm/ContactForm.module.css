@@ -1,0 +1,14 @@
+.form {
+  width: 300px;
+  display: flex;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: red;
+}
